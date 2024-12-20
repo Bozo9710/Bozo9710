@@ -17,7 +17,7 @@ I am currently a 1SIO student, 18 years old, and passionate about IT, coding, an
 
 ## 📚 Recent Projects
 - [Calculator](https://github.com/Bozo9710/B1/blob/main/docs/pages/td4/calculatrice.html) : Here a culcalator fully working 
-- [Index Project](https://github.com/Bozo9710/B1/blob/main/docs/index.html):That my Index of my TPs
+- [Index Project](bozo9710.github.io/B1/):That my Index of my TPs
 ## 💬 Connect with Me
 - Email : lothaire100@gmail.com
 
