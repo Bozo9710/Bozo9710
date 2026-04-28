@@ -1,6 +1,6 @@
 # Hello, I'm Lothaire 👋
 
-I am currently a 1SIO student, 18 years old, and passionate about IT, coding, and networking. I am always eager to learn and improve my skills.
+I am currently a 1SIO student, 19 years old, and passionate about IT, coding, and networking. I am always eager to learn and improve my skills.
 
 ## 🚀 About Me
 - 🔭 I am a 1SIO student with a deep interest in technology and software development.
